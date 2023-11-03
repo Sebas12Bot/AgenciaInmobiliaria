@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø”ß¹ùÿÿÿÿ8à€Î±¹1
+k
+java:S6201"NReplace this instanceof check and cast with 'instanceof Arrendable arrendable'(Èë½ì8ô€Î±¹1
+p
+java:S6201$"NReplace this instanceof check and cast with 'instanceof Arrendable arrendable'(¬ï‡Ñüÿÿÿÿ8ö€Î±¹1
+G	java:S106("+Replace this use of System.out by a logger.(ÎŸş÷8÷€Î±¹1
+o
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ø€Î±¹1
+m
+java:S6201L"PReplace this instanceof check and cast with 'instanceof Hipotecable hipotecable'(ÌÂ¼8ı€Î±¹1
+m
+java:S6201V"PReplace this instanceof check and cast with 'instanceof Hipotecable hipotecable'(Ç·òç8ş€Î±¹1
+L	java:S106Y"+Replace this use of System.out by a logger.(Ãêàúÿÿÿÿ8ÿ€Î±¹1
+L	java:S106["+Replace this use of System.out by a logger.(áı‰úÿÿÿÿ8€Î±¹1
+L	java:S106^"+Replace this use of System.out by a logger.(€¤˜ïüÿÿÿÿ8€Î±¹1
+L
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8‚Î±¹1
+P
+java:S1144H"3Remove this unused private "getHipotecados" method.(ŒëÕï8‚Î±¹1
