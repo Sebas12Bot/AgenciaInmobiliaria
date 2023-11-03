@@ -86,9 +86,9 @@ public class Agencia {
         if (inmueble instanceof Hipotecable) {
             try {
                 ((Hipotecable) inmueble).hipotecar();
-                System.out.println("Se ha hipotecado el inmueble con código " + codigo);
+                System.out.println("Se ha hipotecado el inmueble con codigo " + codigo);
             } catch (UnsupportedOperationException e) {
-                System.out.println("No se puede hipotecar el inmueble con código " + codigo + ": " + e.getMessage());
+                System.out.println("No se puede hipotecar el inmueble con codigo " + codigo + ": " + e.getMessage());
             }
         } else {
             System.out.println("El inmueble con código " + codigo + " no es hipotecable.");
